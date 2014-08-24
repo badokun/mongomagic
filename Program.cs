@@ -4,8 +4,6 @@ using System.Collections.Generic;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoDB.Driver.Builders;
-using NI.Data;
-using NI.Data.SqlClient;
 
 namespace ConsoleApplicationTest
 {

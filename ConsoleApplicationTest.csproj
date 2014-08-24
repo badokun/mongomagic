@@ -32,23 +32,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Insight.Database">
-      <HintPath>..\packages\Insight.Database.Core.4.2.5\lib\NET45\Insight.Database.dll</HintPath>
-    </Reference>
-    <Reference Include="Insight.Database.Configuration">
-      <HintPath>..\packages\Insight.Database.4.2.5\lib\NET45\Insight.Database.Configuration.dll</HintPath>
-    </Reference>
-    <Reference Include="Insight.Database.Providers.Default">
-      <HintPath>..\packages\Insight.Database.4.2.5\lib\NET45\Insight.Database.Providers.Default.dll</HintPath>
-    </Reference>
     <Reference Include="MongoDB.Bson">
-      <HintPath>..\packages\mongocsharpdriver.1.9.2\lib\net35\MongoDB.Bson.dll</HintPath>
+      <HintPath>packages\mongocsharpdriver.1.9.2\lib\net35\MongoDB.Bson.dll</HintPath>
     </Reference>
     <Reference Include="MongoDB.Driver">
-      <HintPath>..\packages\mongocsharpdriver.1.9.2\lib\net35\MongoDB.Driver.dll</HintPath>
-    </Reference>
-    <Reference Include="NI.Data">
-      <HintPath>..\packages\NI.Data.2.0.2.0\lib\net40\NI.Data.dll</HintPath>
+      <HintPath>packages\mongocsharpdriver.1.9.2\lib\net35\MongoDB.Driver.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
